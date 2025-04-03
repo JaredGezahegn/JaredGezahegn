@@ -8,10 +8,14 @@ Passionate about building beautiful and interactive web experiences.
 I enjoy crafting clean and responsive user interfaces with modern web technologies.
 
 💡 Skills & Technologies:
-- 🖥️ HTML  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
--    CSS (SASS, Bootstrap) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-- ⚡ JavaScript (ES6+) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- ⚛️ React.js ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- 🖥️ HTML
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- 🎨 CSS (SASS, Bootstrap)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ⚡ JavaScript (ES6+)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- ⚛️ React.js
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - 🎨 UI/UX Design & Animations
 - ⚙️ Git, GitHub, Vercel, Netlify
 Technology Stack  
