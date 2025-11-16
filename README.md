@@ -24,8 +24,14 @@
 
 ###
 
+
+  ### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaredGezahegn&show_icons=true&theme=tokyonight" alt="Yosef's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaredGezahegn&theme=tokyonight" alt="Yosef's streak stats" height="160"/>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaredGezahegn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaredGezahegn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
