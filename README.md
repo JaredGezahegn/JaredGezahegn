@@ -27,8 +27,9 @@
 
   ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaredGezahegn&show_icons=true&theme=tokyonight" alt="Yosef's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaredGezahegn&theme=tokyonight" alt="Yosef's streak stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaredGezahegn&show_icons=true&theme=tokyonight" alt="Yared's GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=JaredGezahegn&theme=tokyonight" alt="Yared's streak stats" height="160"/>
+
 </p>
 
 <div align="center">
@@ -53,9 +54,6 @@
 </p>
 
 ###
-
-[![JaredGezahegn’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JaredGezahegn&theme=react-dark)](https://github.com/JaredGezahegn)
-
 
  
 <br clear="both">
