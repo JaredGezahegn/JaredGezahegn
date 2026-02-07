@@ -17,7 +17,7 @@
   <a href="https://twitter.com/JaredGezahegn?t=xYkEQwYJmaCwuMY2pRwOKg&s=35" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://jaredgezahegn.github.io/new-portfolio/" target="_blank">
+  <a href="https://one-piece-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
