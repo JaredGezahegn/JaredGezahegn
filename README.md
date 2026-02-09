@@ -49,16 +49,7 @@
 <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" height="150" alt="Abstract shapes animation" />
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="Matrix code" />
 <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" height="150" alt="Abstract coding flow" />
-</div>
-
-
-
-### ⚡ Key Notes
-- 🔭 I’m currently working on **Front-End Projects** using React, Tailwind, and modern JavaScript.  
-- 🌱 I’m constantly learning **new technologies** and improving my coding skills.  
-- 💬 Ask me about **Web Development, UI/UX, or JavaScript frameworks**.  
-- 📫 Reach me via **[Gmail](mailto:jaredgezahegn@gmail.com)** or connect on **[LinkedIn](https://linkedin.com/in/yared-gezahegn-224368388)**.  
-- ⚡ Fun fact:☕ Coffee is my fuel for coding marathons.  
+</div> 
 
 ---
 
