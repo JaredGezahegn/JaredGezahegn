@@ -7,7 +7,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/yared-gezahegn-224368388" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -22,19 +22,6 @@
   </a>
 </div>
 
-###
-
-
-  ### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaredGezahegn&show_icons=true&theme=tokyonight" alt="Yared's GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=JaredGezahegn&theme=tokyonight" alt="Yared's streak stats" height="160"/>
-
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaredGezahegn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### Skills
 
