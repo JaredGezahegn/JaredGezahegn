@@ -58,7 +58,7 @@ While I love creating clean, responsive interfaces with React, I am equally pass
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaredGezahegn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=JaredGezahegn&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaredGezahegn&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
